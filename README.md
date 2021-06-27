@@ -2,7 +2,7 @@
 Awesome data for economics and business research
 
 
-Articles on Financial constraints2021-06-22 | data-set
+Articles on Financial constraints 2021-06-22 | data-set
 DOI: https://doi.org/10.17632/7P7FG6MGZY
 
 Publications on the Peer-To-Peer Lending2021-06-22 | data-set
@@ -110,7 +110,7 @@ Forty-five years of Journal of Banking and Finance 2021-05-21 | data-set
 DOI: 10.17632/2KKKSFK73R
 
 
-Machine learning research in Banking2021-05-21 | data-set
+Machine learning research in Banking 2021-05-21 | data-set
 DOI: https://doi.org/10.17632/5BRZMNCKZG
 
 
