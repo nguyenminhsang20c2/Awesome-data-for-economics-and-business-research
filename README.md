@@ -107,7 +107,7 @@ Seventy-six years of Journal of Finance 2021-05-25 | data-set
 DOI: https://doi.org/10.17632/G2CH4VBY5H
 
 Forty-five years of Journal of Banking and Finance 2021-05-21 | data-set
-DOI: 10.17632/2KKKSFK73R
+DOI: https://doi.org/10.17632/2KKKSFK73R
 
 
 Machine learning research in Banking 2021-05-21 | data-set
@@ -115,7 +115,7 @@ DOI: https://doi.org/10.17632/5BRZMNCKZG
 
 
 The dataset for bibliometric analysis of economics and business research trends in Vietnam 2021-05-12 | data-set
-DOI: 10.17632/63VHBKNDNS
+DOI: https://doi.org/10.17632/63VHBKNDNS
 
 
 Impact of the COVID-19 pandemic on the banking sectors: A dataset of Vietnamese commercial banks 2021-04-29 | data-set
