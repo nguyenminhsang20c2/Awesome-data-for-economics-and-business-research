@@ -1,6 +1,14 @@
 # Awesome-data-for-economics-and-business-research
-Awesome data for economics and business research
 
+
+Publications on the Loan default research 
+DOI: https://doi.org/10.17632/t6rg23xxw5
+
+Publications on the Peer-To-Peer Lending 
+DOI: https://doi.org/10.17632/xzmrg6f4zb.1
+
+List of Scopus Indexed Journals_May 2021 
+DOI: https://doi.org/10.17632/mzjvzv69p2
 
 Articles on Financial constraints 2021-06-22 | data-set
 DOI: https://doi.org/10.17632/7P7FG6MGZY
