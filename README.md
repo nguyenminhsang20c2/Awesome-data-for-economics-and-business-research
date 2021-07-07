@@ -1,5 +1,9 @@
 # Awesome-data-for-economics-and-business-research
+Financial well-being among Vietnamese students
+DOI: https://doi.org/10.17632/N8RR2MXWP3.1
 
+Publications on the Green finance
+DOI: https://doi.org/10.17632/FGWPF6VYYC.2
 
 Publications on the Loan default research 
 DOI: https://doi.org/10.17632/t6rg23xxw5
