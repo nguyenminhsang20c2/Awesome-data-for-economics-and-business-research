@@ -1,4 +1,11 @@
 # Awesome-data-for-economics-and-business-research
+
+COVID-19-related articles in the Economic and Business research 
+DOI:  https://doi.org/10.17632/3K2VJY455S.1
+
+Publications on the Asset Price Bubbles research 
+DOI:  https://doi.org/10.17632/MD3RPF8J45.1
+
 Financial well-being among Vietnamese students
 DOI: https://doi.org/10.17632/N8RR2MXWP3.1
 
