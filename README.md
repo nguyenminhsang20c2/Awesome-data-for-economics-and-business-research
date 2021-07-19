@@ -1,5 +1,11 @@
 # Awesome-data-for-economics-and-business-research
 
+Publications on the Mobile money research
+DOI: https://doi.org/10.17632/J9SH7W62M4
+
+Publications on the Shadow banking research
+DOI: https://doi.org/10.17632/GR7JS662Z3
+
 COVID-19-related articles in the Economic and Business research 
 DOI:  https://doi.org/10.17632/3K2VJY455S.1
 
