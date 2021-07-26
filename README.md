@@ -1,5 +1,17 @@
 # Awesome-data-for-economics-and-business-research
 
+COVID-19 cases by province in Vietnam 27.04.2021-25.07.2021
+DOI: https://doi.org/10.17632/FJTPMNCNPP
+
+Publications on the Financial incentives
+DOI https://doi.org/10.17632/T8D627CXB4
+
+Publications on the Infodemic research
+DOI: https://doi.org/10.17632/RGZZ78V63V
+
+Vietnam daily Covid-19 cases_27.04.2021-25.07.2021
+DOI: https://doi.org/10.17632/TKRVCFPXDD
+
 Publications on the Mobile money research
 DOI: https://doi.org/10.17632/J9SH7W62M4
 
