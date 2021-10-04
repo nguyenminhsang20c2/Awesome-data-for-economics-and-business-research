@@ -1,5 +1,68 @@
 # Awesome-data-for-economics-and-business-research
 
+Publications on the Macroprudential policy research 2021-09-27 
+DOI:  https://doi.org/10.17632/VK76RHHBDD
+
+Trends in the Bitcoin research 2021-09-27 
+DOI:  https://doi.org/10.17632/F56XFYTPH4
+
+Trends in the Oil price and the stock market research 2021-09-22 
+DOI:  https://doi.org/10.17632/KM22458GRP
+
+Publications on the Stock liquidity research 2021-09-21 
+DOI:  https://doi.org/10.17632/42PM4W7BD7
+
+Publications on the Stagflation research 2021-09-15 
+DOI:  https://doi.org/10.17632/WK7H432Y3W
+
+Publications on the Financial reform research 2021-09-14 
+DOI:  https://doi.org/10.17632/VKMX8FMCVG
+
+Trends in the Crowdfunding research 2021-09-14 
+DOI:  https://doi.org/10.17632/NF3RMMGBFZ
+
+Publications on the Bank run research 2021-09-10 
+DOI:  https://doi.org/10.17632/KPXN6D8ZDF
+
+Publications on the Digital Economy research 2021-09-10 
+DOI:  https://doi.org/10.17632/F8V3F23NTC
+
+Publications on the Monetary Policy Transmission research 2021-09-10
+DOI:  https://doi.org/10.17632/KD232WY5PH
+
+Trends in the Financial contagion research 2021-09-10 
+DOI:  https://doi.org/10.17632/3BKFNX6J8G
+
+Trends in the Trade openness research2021-09-10 | data-set
+DOI:  https://doi.org/10.17632/4XNZ846CPZ
+
+Publications on the Financial Development and Economic Growth research 2021-08-31
+DOI:  https://doi.org/10.17632/SR4DGZM9D9
+
+Articles on Income Inequality 2021-08-24
+DOI:  https://doi.org/10.17632/DXCDGRPNH6
+
+Publications on the Bank market power research 2021-08-24 
+DOI:  https://doi.org/10.17632/9DS3FV5YKF
+
+Publications on the Financial feasibility research 2021-08-24 
+DOI:  https://doi.org/10.17632/8KW54KCGWN
+
+Publications on the Pandemic management research 2021-08-24 
+DOI:  https://doi.org/10.17632/S3WXWT7XWD
+
+Trends in the Banking Union research 2021-08-24 
+DOI:  https://doi.org/10.17632/DFB6BMZ7NW
+
+Trends in the Economic freedom research 2021-08-24 
+DOI:  https://doi.org/10.17632/RGSSKCZJRH
+
+The Bibliometric Analysis of Economics and Business Research Trends in Vietnam
+DOI:  https://doi.org/10.47059/revistageintec.v11i4.2481
+
+Results of National High School Graduation Exam in Vietnam in 2020-2021 2021-07-27 
+DOI:  https://doi.org/10.17632/C6V4B5GPYS
+
 COVID-19 cases by province in Vietnam 27.04.2021-25.07.2021
 DOI: https://doi.org/10.17632/FJTPMNCNPP
 
